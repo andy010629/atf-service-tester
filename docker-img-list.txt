@@ -1,0 +1,2 @@
+[influxDB+garfana](https://hub.docker.com/r/philhawthorne/docker-influxdb-grafana/)
+[kafka](https://github.com/wurstmeister/kafka-docker)
